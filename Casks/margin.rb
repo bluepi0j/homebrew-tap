@@ -1,6 +1,6 @@
 cask "margin" do
-  version "1.0.2"
-  sha256 "02ca9c93d61baa40981d54eb463efbbdc156ccb24a98f130b7f9f31bae2598da"
+  version "1.1.0"
+  sha256 "478c08f8d7c8fcf09493ec3d38a50a0e5e177a174464028ae24dc4aaaee7f4d2"
 
   url "https://github.com/bluepi0j/margin/releases/download/v#{version}/Margin-#{version}.zip"
   name "Margin"
